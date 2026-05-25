@@ -202,13 +202,13 @@ Forecasting includes:
 ```bash
 Sales-Forecasting/
 │
-├── data/
-├── notebooks/
-├── models/
+├── requirements/
 ├── images/
 ├── sales_forecasting.ipynb
+├── Report.pdf
+├── Sales_dataset.scv
+├── PowerPoint.pptx
 ├── README.md
-└── requirements.txt
 ```
 
 ---
